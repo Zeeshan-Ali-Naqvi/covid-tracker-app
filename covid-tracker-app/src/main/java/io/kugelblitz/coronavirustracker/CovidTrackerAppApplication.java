@@ -1,4 +1,4 @@
-package io.kugelblitz;
+package io.kugelblitz.coronavirustracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
